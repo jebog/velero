@@ -1,0 +1,8 @@
+namespace: velero
+resources:
+  - custom-resources.yaml
+  - rbacs.yaml
+  - secrets.yaml
+  - backups-location.yaml
+  - deploy.yaml
+  - restic.yaml
